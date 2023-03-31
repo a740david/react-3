@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc57e341-e600-4580-8032-f4cb1ca291fd" name="Changes" comment="changes">
+      <changelist_data name="Valeria Aynbinder" email="valeria.aynbinder@gmail.com" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coctails/Coctails.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coctails/CoctailsByLetter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FunnyImg/FunnyImg.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FunnyImg/FunnyImg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FunnyImg/consts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieCard/MovieCard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieCard/MovieCard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieCard/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesGallery/MoviesGallery.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesGallery/MoviesGallery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumbersFacts/FactsWithLikes/LikedItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/NumbersFacts/FactsWithLikes/LikedItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poster/Poster.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poster/Poster.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchImg/SearchForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchImg/SearchImg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchImg/imgsData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SolutionReact2_1/SearchForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SolutionReact2_1/SearchImg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SolutionReact2_1/imgsData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThreeTimesRender/ThreeTimesCounter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movies_data.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Valeria Aynbinder &lt;valeria.aynbinder@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NmWsLf3T2KyfewOjLCOjNkA7DY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/owner/PycharmProjects/react-3/src&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc57e341-e600-4580-8032-f4cb1ca291fd" name="Changes" comment="" />
+      <created>1680269944104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680269944104</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="b7fe8b61-42b4-43e7-9ccc-d4bd06c72b1a">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="b7fe8b61-42b4-43e7-9ccc-d4bd06c72b1a" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes" />
+  </component>
+</project>
